@@ -3,7 +3,7 @@
 <div align="center">
   <p> <img src="https://komarev.com/ghpvc/?username=srrihari&label=Profile%20views&color=ff8f20&style=flat&abbreviated=true" alt="srrihari" /> </p>
  
-<img src="public/Me.png" alt="Srrihari" style="max-width: 90%; height: auto;" />
+<img src="public/Me.png" alt="Srrihari" width= "50%"  />
 </div>
 
 
