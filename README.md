@@ -1,9 +1,17 @@
 ## <h1 align="center">Hi there  👋</h1>
 
 <div align="center">
-  <p> <img src="https://komarev.com/ghpvc/?username=srrihari&label=Profile%20views&color=ff8f20&style=flat&abbreviated=true" alt="srrihari" /> </p>
+  <p>
+    <a href="https://srrihari.github.io" target="_blank">
+      <img src="https://img.shields.io/badge/Website-srrihari.github.io-orange?style=for-the-badge&logo=github" />
+    </a>
+  </p>
+
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=srrihari&label=Profile%20views&color=ff8f20&style=flat&abbreviated=true" alt="srrihari" />
+  </p>
  
-<img src="public/Me.png" alt="Srrihari" width= "50%"  />
+  <img src="public/Me.png" alt="Srrihari" width="50%" />
 </div>
 
 
