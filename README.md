@@ -74,18 +74,6 @@
   <a href="https://www.linkedin.com/in/srri-hari-t-r-30b69829b/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="LinkedIn" />
   </a>
-  <a href="https://wa.me/7339281365" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=WhatsApp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="WhatsApp" />
-  </a>
-  <a href="https://x.com/SrriHariTR?t=3gQr5QIekGhyFrJxnKqb1Q&s=09" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="Twitter" />
-  </a>
-  <a href="https://www.instagram.com/srriharitr" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="Instagram" />
-  </a>
-  <a href="https://www.threads.net/@srriharitr" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Threads&logo=threads&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="Threads" />
-  </a>
 </div>
 
 ###
