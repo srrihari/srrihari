@@ -1,6 +1,7 @@
 ## <h1 align="center">Hi there  👋</h1>
 
 <div align="center">
+  
   <p>
     <a href="https://srrihari.github.io" target="_blank">
       <img src="https://img.shields.io/badge/Website-srrihari.github.io-orange?style=for-the-badge&logo=github" />
@@ -15,13 +16,14 @@
 
 
 <div align="center">
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=srrihari&show_icons=true&theme=flag-india)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=srrihari&layout=compact&theme=flag-india)
-
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=FF9933&center=true&vCenter=true&width=500&lines=Web+Developer;IoT+Enthusiast;Always+Learning+🚀" />
+</p>
 
   <p><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com/?user=srrihari&theme=flag-india&hide_border=true" alt="GitHub Streak" /></a></p>
 </div>
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=srrihari&bg_color=FFFFFF&color=FF9933&line=FF9933&point=138808&area=true&area_color=138808&hide_border=true)
 
 ###
 
