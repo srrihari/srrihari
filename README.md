@@ -15,8 +15,11 @@
 
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=srrihari&theme=flag-india&show_icons=true&hide_border=true&count_private=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srrihari&theme=flag-india&show_icons=true&hide_border=true&layout=compact" height="150" alt="languages graph"  />
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=srrihari&show_icons=true&theme=flag-india)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=srrihari&layout=compact&theme=flag-india)
+
+
   <p><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com/?user=srrihari&theme=flag-india&hide_border=true" alt="GitHub Streak" /></a></p>
 </div>
 
@@ -71,7 +74,7 @@
   <a href="https://github.com/srrihari" target="_blank">
     <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="GitHub" />
   </a>
-  <a href="https://www.linkedin.com/in/srri-hari-t-r-30b69829b/" target="_blank">
+  <a href="https://www.linkedin.com/in/srrihari/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="LinkedIn" />
   </a>
 </div>
