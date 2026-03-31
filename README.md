@@ -4,7 +4,7 @@
   
   <p>
     <a href="https://srrihari.app" target="_blank">
-      <img src="https://img.shields.io/badge/Website-srrihari.github.io-orange?style=for-the-badge&logo=github" />
+      <img src="https://img.shields.io/badge/Website-srrihari.app-orange?style=for-the-badge&logo=github" />
     </a>
   </p>
 
